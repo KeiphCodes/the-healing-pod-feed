@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-healing-pod-feed@main/feed.xml" rel="self" type="application/rss+xml" />
+    <title>The Healing Pod</title>
+    <link>https://cdn.jsdelivr.net/gh/KeiphCodes/the-healing-pod-feed@main/feed.xml</link>
+    <language>en-us</language>
+    <description><![CDATA[A meditation show that starts at the very beginning. The Healing Pod builds one episode at a time, from your first conscious breath to deep and steady practice. No experience needed. We learn together, step by step, on a long road toward mastery. Hosted by Alden Isaac.]]></description>
+    <managingEditor>Ivyindustrieswork@gmail.com (Alden Isaac)</managingEditor>
+    <itunes:author>Alden Isaac</itunes:author>
+    <itunes:summary><![CDATA[A meditation show that starts at the very beginning. The Healing Pod builds one episode at a time, from your first conscious breath to deep and steady practice. No experience needed. We learn together, step by step, on a long road toward mastery. Hosted by Alden Isaac.]]></itunes:summary>
+    <itunes:owner>
+      <itunes:name>Alden Isaac</itunes:name>
+      <itunes:email>Ivyindustrieswork@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-healing-pod-feed@main/art.jpg" />
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Mental Health" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+  </channel>
+</rss>
