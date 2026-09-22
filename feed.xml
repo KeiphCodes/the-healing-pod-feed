@@ -19,5 +19,21 @@
     </itunes:category>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>The Healing Pod #1 - The Very Beginning</title>
+      <description><![CDATA[The very first episode. We start at the absolute beginning: what meditation actually is, what it is not, how to sit, how to breathe, and your first real five-minute practice, guided start to finish. No experience needed, no special gear, no belief system. Just press play.
+
+Music: "Gymnopedies Nos. 1-3" by Erik Satie, performed by Kevin MacLeod (incompetech.com), licensed under Creative Commons Attribution 3.0 (creativecommons.org/licenses/by/3.0).]]></description>
+      <pubDate>Tue, 22 Sep 2026 17:17:45 -0500</pubDate>
+      <enclosure url="https://cdn.jsdelivr.net/gh/KeiphCodes/the-healing-pod-feed@main/the-healing-pod-001-the-very-beginning.mp3" length="20470509" type="audio/mpeg" />
+      <guid isPermaLink="true">https://cdn.jsdelivr.net/gh/KeiphCodes/the-healing-pod-feed@main/the-healing-pod-001-the-very-beginning.mp3</guid>
+      <itunes:author>Alden Isaac</itunes:author>
+      <itunes:summary><![CDATA[The very first episode. We start at the absolute beginning: what meditation actually is, what it is not, how to sit, how to breathe, and your first real five-minute practice, guided start to finish. No experience needed. Just press play.]]></itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>21:19</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://cdn.jsdelivr.net/gh/KeiphCodes/the-healing-pod-feed@main/art.jpg" />
+    </item>
   </channel>
 </rss>
